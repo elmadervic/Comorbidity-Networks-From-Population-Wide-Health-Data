@@ -83,7 +83,7 @@ setwd("path/to/this/project/directory")
 
 For example
 ```r
-setwd("/Users/ed/Documents/Github/Population-Wide-Medical-Claims-and-Comorbidity-Networks-Aggregated-Data-of-8.9M-Patients")
+setwd("/Users/ed/Documents/Github/Comorbidity-Networks-From-Population-Wide-Health-Data")
 ```
 
 3. Run the scripts:
