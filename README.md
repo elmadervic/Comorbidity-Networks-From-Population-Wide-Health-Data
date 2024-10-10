@@ -17,12 +17,12 @@ This repository contains aggragated data, comoribity networks and scripts, as de
 This project aims to provide a comprehensive dataset for a wide range of comorbidity networks to foster further research in this direction.
 By utilizing medical claims databases from all Austrian hospitals, these networks reflect information about 45,000,000 hospital stays and their interrelations in the Austrian population (N=8,996,916). The underlying database, maintained by the Austrian Ministry of Health, includes data on patients' age and gender, primary and secondary diagnoses, entry and release dates, release type, hospital region, and patient's residential region. It covers the years 1997 through 2014. Level-3 ICD-10 codes are used to represent primary and secondary diagnoses. 
 
-![Project Overview](https://github.com/elmadervic/BreadcrumbsComorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/DataNet.png?raw=true)
+![Project Overview](https://github.com/elmadervic/Comorbidity-Networks-From-Population-Wide-Health-Data/blob/main/DataNet.png?raw=true)
 
 Here, we used this vast dataset to construct different types of comorbidity networks, for instance, networks of ICD10 diagnoses, ICD blocks, and chronic conditions blocks for different sex, age groups, and time periods. All these networks are visualized via an online web application, which is publicly available [LINK](https://vis.csh.ac.at/comorbidity_networks/). 
 
 
-![FlowChart](https://github.com/elmadervic/BreadcrumbsComorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/FlowChart.png?raw=true)
+![FlowChart](https://github.com/elmadervic/sComorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/FlowChart.png?raw=true)
 
 ## Data
 
