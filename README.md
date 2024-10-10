@@ -41,7 +41,7 @@ Info on the Adjacency Matrices are listed in the subfolder [Data/Adjacency Matri
 ### 4.Graphs - gexf files
 Info on the Gephi file, use in the [visualisation web application](https://vis.csh.ac.at/comorbidity_networks/) are listed in the subfolder [Data/Graphs](Data/4.Graphs-gexffiles). 
 For instance:
-![Example](https://github.com/elmadervic/BreadcrumbsComorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/Graphs/Graph_Female_ICD_Age_5.png?raw=true)
+![Example](https://github.com/elmadervic/Comorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/Graphs/Graph_Female_ICD_Age_5.png?raw=true)
 
 
 
