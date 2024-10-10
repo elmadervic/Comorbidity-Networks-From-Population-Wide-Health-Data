@@ -22,7 +22,7 @@ By utilizing medical claims databases from all Austrian hospitals, these network
 Here, we used this vast dataset to construct different types of comorbidity networks, for instance, networks of ICD10 diagnoses, ICD blocks, and chronic conditions blocks for different sex, age groups, and time periods. All these networks are visualized via an online web application, which is publicly available [LINK](https://vis.csh.ac.at/comorbidity_networks/). 
 
 
-![FlowChart](https://github.com/elmadervic/sComorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/FlowChart.png?raw=true)
+![FlowChart](https://github.com/elmadervic/Comorbidity-Networks-From-Population-Wide-Health-Data/blob/main/Plots/FlowChart.png?raw=true)
 
 ## Data
 
